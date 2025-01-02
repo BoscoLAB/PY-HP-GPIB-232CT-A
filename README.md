@@ -12,4 +12,4 @@ Python software to control a National Instruments GPIB-232CT-A controller to tra
 
 # The following HP plotters were tested
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bWLo2th_44o?si=3zSs1uyg1cIk9ePh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/bWLo2th_44o?si=Pba61OVcQiW6J4Hu
