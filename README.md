@@ -17,6 +17,8 @@ Python software to control a National Instruments GPIB-232CT-A controller to tra
 
 HP Plotter Control software for NI GPIB-232CT-A Demo: https://youtu.be/bWLo2th_44o?si=Pba61OVcQiW6J4Hu
 
+# Plots HP9872C
+
 ![cassini_plot](https://github.com/user-attachments/assets/ac681042-6432-4ee7-8738-dcf48fa3b8af)
 ![perseverance_plot](https://github.com/user-attachments/assets/e32b1b0b-51c4-492f-a998-b91bbef874a4)
 ![deepspace_plot](https://github.com/user-attachments/assets/2645849c-a006-4be4-aba1-4bd0d0e28021)
